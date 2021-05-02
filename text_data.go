@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"os"
 	"os/signal"
-	// "syscall"
+	"syscall"
 
 	"github.com/pkg/errors"
 
